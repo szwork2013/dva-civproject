@@ -1,0 +1,8 @@
+.AppMainContainer li.slider-slide{
+  box-sizing: content-box;
+}
+.subTitle {
+  color: #888;
+  font-size: .28rem;
+  padding: 0.3rem 0 0.18rem 0.3rem;
+}

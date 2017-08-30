@@ -1,0 +1,17 @@
+.normal {
+}
+.header{
+  overflow: auto;
+  position: absolute;
+  z-index: 100;
+  bottom: 1rem;
+  width: 100%;
+  top:1rem;
+}
+.navHeader{
+
+}
+.handleViewContainer{
+  display: flex;
+  flex-direction: row;
+}

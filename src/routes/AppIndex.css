@@ -1,0 +1,33 @@
+.home_icon{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_home_select.svg) center center /  0.42rem 0.42rem no-repeat;
+}
+
+.home_icon_select{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_home.svg) center center /  0.42rem 0.42rem no-repeat;
+}
+.map_icon{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_map.svg) center center /  0.42rem 0.42rem no-repeat;
+}
+
+.map_icon_select{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_map_select.svg) center center /  0.42rem 0.42rem no-repeat;
+}
+.usr_icon{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_user.svg) center center /  0.42rem 0.42rem no-repeat;
+}
+
+.usr_icon_select{
+  width: 0.44rem;
+  height: 0.44rem;
+  background: url(.././svg/tab_user_select.svg) center center /  0.42rem 0.42rem no-repeat;
+}

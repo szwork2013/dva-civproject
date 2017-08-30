@@ -1,0 +1,17 @@
+
+.normal {
+  box-sizing: border-box;
+  height: 1rem;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: bottom .2s;
+  transition: bottom .2s;
+  -webkit-box-sizing: border-box;
+  z-index: 100;
+}

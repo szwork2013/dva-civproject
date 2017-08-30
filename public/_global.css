@@ -1,0 +1,77 @@
+
+html, body,#bizContainer,#mapContainer {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background-color: #fff;
+}
+.fullScreen,.am-tab-bar,.am-tab-bar-content>div{
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+.am-tab-bar-content{
+  position: absolute;
+  top: 0rem;
+  width: 100%;
+  bottom:1rem;
+}
+
+.show{
+  display: block;
+}
+.hide{
+  display: none;
+}
+
+.footer {
+  box-sizing: border-box;
+  height: 1rem;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: bottom .2s;
+  transition: bottom .2s;
+  -webkit-box-sizing: border-box;
+  z-index: 100;
+  background: white;
+}
+.content {
+  overflow: auto;
+  position: absolute;
+  z-index: 100;
+  bottom: 1rem;
+  top: 0rem;
+  width: 100%;
+}
+.center{
+  width:100px;
+  height:100px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-left:-50px;
+  margin-top:-50px
+}
+.LoginContainer div.am-list-item.am-input-item:after{
+  border-bottom: 0px;
+}
+/*li.slider-slide{*/
+  /*box-sizing: content-box;*/
+/*}*/
+/*.GridContainer li.slider-slide{*/
+  /*box-sizing: content-box;*/
+/*}*/
+.am-grid {
+  border: 1px solid #ddd;
+}
+/*.am-tabs{
+  height: 100%;
+}*/
+
+

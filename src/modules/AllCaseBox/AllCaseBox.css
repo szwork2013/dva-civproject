@@ -1,0 +1,19 @@
+
+.normal {
+}
+.doing_component{
+  top: 1rem;
+  position: absolute;
+  width: 100%;
+}
+.header{
+  overflow: auto;
+  position: absolute;
+  z-index: 100;
+  bottom: 1rem;
+  width: 100%;
+  top:1rem;
+}
+.navHeader{
+
+}

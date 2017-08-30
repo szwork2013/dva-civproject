@@ -1,0 +1,27 @@
+.selectPeople{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+.selectItem{
+  height: 1rem;
+  width:100%;
+}
+.tree_view{
+  height: 80%;
+  width: 100%;
+}
+.ensure_dispatch{
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+}
+.header{
+  overflow: auto;
+  position: absolute;
+  z-index: 100;
+  bottom: 1rem;
+  width: 100%;
+  top:1rem;
+}

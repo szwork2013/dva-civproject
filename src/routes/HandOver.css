@@ -1,0 +1,40 @@
+
+.normal {
+}
+.vertical-center-modal {
+  text-align: center;
+  white-space: nowrap;
+  height: 100%;
+  min-height: 400px;
+}
+.header{
+  overflow: auto;
+  position: absolute;
+  z-index: 100;
+  bottom: 3rem;
+  top: 0rem;
+  width: 100%;
+}
+.opitionContent{
+
+  position: fixed;
+  z-index: 100;
+  bottom: 1rem;
+  width: 100%;
+
+}
+/*.vertical-center-modal:before {*/
+  /*content: '';*/
+  /*display: inline-block;*/
+  /*height: 100%;*/
+  /*vertical-align: middle;*/
+  /*width: 0;*/
+/*}*/
+
+/*.vertical-center-modal .ant-modal {*/
+  /*display: inline-block;*/
+  /*vertical-align: middle;*/
+  /*top: 0;*/
+  /*text-align: left;*/
+/*}*/
+/*vertical-center-modal*/
